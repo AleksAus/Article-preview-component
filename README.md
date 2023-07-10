@@ -11,7 +11,7 @@ Users should be able to:
 ### Screenshot
 
 ![](screenshots/article-full.png)
-![](.screenshots/article-mini.png)
+![](screenshots/article-mini.png)
 
 ### Links
 
